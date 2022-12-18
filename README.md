@@ -1,2 +1,2 @@
-# note-DS
-note for Applied Data Science Specialization
+# Applied Data Science Specialization 
+_provided by University of Michigan & Coursera_
