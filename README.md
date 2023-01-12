@@ -22,3 +22,9 @@ types of text features
 
 <br>
 Naive Bayes Classifiers
+1. rules
+   - Posterior probability  = Prior probability x likelihood / Evidence
+   - Pr(y|X) = Pr(y) x Pr(X|y) / Pr(X)
+   - y* = argmax Pr(y|X) = argmax Pr(y) x Pr(X|y)
+   - y* = argmax Pr(y|X) = argmax Pr(y) x ∏ Pr(xi|y)
+   
